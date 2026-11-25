@@ -1,0 +1,26 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "whenever",
+  "displayName": "Whenever",
+  "version": "0.1.0",
+  "description": "Build and manage Whenever workflow automations from Antigravity: write and save workflows, turn them on, and read the results of past runs.",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Help me turn a recurring task into a Whenever workflow.",
+    "Show my Whenever workflows and their current state.",
+    "Explain the latest recorded failure in one of my workflows."
+  ],
+  "author": {
+    "name": "Wix.com Ltd.",
+    "url": "https://www.whenever.dev"
+  },
+  "homepage": "https://www.whenever.dev",
+  "repository": "https://github.com/wix-incubator/whenever-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "automation",
+    "workflows",
+    "schedules",
+    "webhooks"
+  ]
+}
