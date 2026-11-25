@@ -18,10 +18,11 @@ run `agy plugin install ./whenever-antigravity-plugin`.
 
 ## Sign in
 
-The plugin connects to `https://mcp.whenever.dev/`. In the Antigravity App, open
-**Customizations > Installed**, find the Whenever MCP server, select **Authenticate**, and sign in
-with your Whenever account. Antigravity sees only your own workflows. Provider connections and
-secrets are set up in Whenever in your browser; Antigravity never sees their values.
+The plugin connects to `https://mcp.whenever.dev/` and signs in with your Whenever account. In the
+Antigravity CLI, open `/plugin`, expand **whenever** under **Installed**, and choose **Sign in**. In
+the Antigravity App, open **Customizations > Installed** and choose **Authenticate** next to the
+Whenever MCP server. Antigravity sees only your own workflows. Provider connections and secrets are
+set up in Whenever in your browser; Antigravity never sees their values.
 
 ## Support
 
