@@ -1,5 +1,7 @@
 # Whenever
 
+Ask Antigravity once; Whenever runs the workflow on its own schedule, webhook or app event.
+
 Build and manage [Whenever](https://www.whenever.dev) automations from Antigravity. Describe a
 recurring task and the Antigravity agent writes the workflow, checks it, and saves a draft in your
 Whenever account. It can also turn workflows on, show their triggers, and read the results of past

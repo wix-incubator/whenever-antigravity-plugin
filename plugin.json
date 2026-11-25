@@ -3,7 +3,7 @@
   "name": "whenever",
   "displayName": "Whenever",
   "version": "0.1.0",
-  "description": "Build and manage Whenever workflow automations from Antigravity: write and save workflows, turn them on, and read the results of past runs.",
+  "description": "Ask Antigravity once; Whenever runs the workflow on its own schedule, webhook or app event.",
   "logo": "assets/icon.png",
   "suggestedPrompts": [
     "Help me turn a recurring task into a Whenever workflow.",
